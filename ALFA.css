@@ -11,7 +11,7 @@ body{
     display: flex;
     align-items: center;
     align-items: center;
-    background-image: url(background.jpg);
+    background-image: url(IMAGES/background.jpg);
     background-repeat: no-repeat;
     background-size: 1550px 740px;
 }
